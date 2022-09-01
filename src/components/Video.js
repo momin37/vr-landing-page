@@ -21,14 +21,6 @@ const Video = () => {
 
           {/** Modal video */}
 
-          // <ModalVideo
-          //   channel="youtube"
-          //   autoplay
-          //   isOpen={isOpen}
-          //   videoId="NOk_M1Ib5F0"
-          //   onClose={() => setIsOpen(false)}
-          // />
-
           {/**  video section */}
 
           <div
